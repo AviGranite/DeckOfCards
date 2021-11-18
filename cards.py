@@ -13,9 +13,3 @@ for i in suits:
 random.shuffle(deck) #shuffle
 #print(deck)
 deck_g = (c for c in deck) #deck as a generator
-
-
-
-
-
-
